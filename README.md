@@ -1,1 +1,2 @@
-# 👋 Hi, my name is **Alex**!
+# Frontend Developer
+#JavaScript ❤️ ReactJS
